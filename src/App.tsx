@@ -38,9 +38,6 @@ function App() {
           }}
         >
           <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
-            <Typography variant="h6" color="text.secondary">
-              已迁移至新域名
-            </Typography>
             <Typography variant="h4" fontWeight={700}>
               已迁移至新域名！
             </Typography>
